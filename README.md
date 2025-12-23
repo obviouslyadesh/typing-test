@@ -1,4 +1,4 @@
------------------------------## Typing Speed Test – Full-Stack Web Application ##--------------------------------
+# Typing Speed Test – Full-Stack Web Application 
 
 A full-stack typing performance platform that allows users to measure typing speed, accuracy, and errors in real time, with secure authentication and persistent score tracking.
 
